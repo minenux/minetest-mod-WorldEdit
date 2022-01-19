@@ -5,7 +5,7 @@ The ultimate in-game world editing tool for [Minetest](http://minetest.net/)! To
 
 New users should **see the [tutorial](Tutorial.md).** this branch mod is focused for minetst 0.4 for newer version use master branch or lasted releases.
 
-![Screenshot](http://i.imgur.com/lwhodrv.png)
+![Screenshot](screenshot.png)
 
 ## Information
 
