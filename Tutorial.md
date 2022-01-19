@@ -7,8 +7,6 @@ Let's start with a few assumptions:
 * You have a compatible version of Minetest working.
   * See the [README](README.md) for compatibility information.
 * You have WorldEdit installed as a mod.
-  * If using Windows, [MODSTER](https://forum.minetest.net/viewtopic.php?pid=101463) makes installing mods totally painless.
-  * Simply download the file, extract the archive, and move it to the correct mod folder for Minetest.
   * See the installation instructions in [README](README.md) if you need more details.
 * You are familiar with the basics of the game.
   * How to walk, jump, and climb.

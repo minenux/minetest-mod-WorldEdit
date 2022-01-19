@@ -1,0 +1,1 @@
+WorldEdit GUI interface integrated with default standard inventory, smart inventory, unified inventory or inventory plus
