@@ -73,7 +73,7 @@ worldedit.register_gui_function("worldedit_gui_about", {
 	name = "About",
 	privs = {interact=true},
 	on_select = function(name)
-		minetest.chatcommands["/about"].func(name, "")
+		minetest.chatcommands["/weabout"].func(name, "")
 	end,
 })
 

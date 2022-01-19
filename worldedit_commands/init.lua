@@ -106,7 +106,7 @@ local function check_filename(name)
 end
 
 
-minetest.register_chatcommand("/we-about", {
+minetest.register_chatcommand("/weabout", {
 	params = "",
 	description = "Get information about the WorldEdit mod",
 	func = function(name, param)

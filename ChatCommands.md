@@ -27,11 +27,11 @@ Many commands also have shorter names that can be typed faster. For example, if 
 | `//hpyr`   | `//hollowpyramid`  |
 | `//pyr`    | `//pyramid`        |
 
-### `//about`
+### `//weabout`
 
 Get information about the mod.
 
-    //about
+    //weabout
 
 ### `//inspect on/off/1/0/true/false/yes/no/enable/disable/<blank>`
 
