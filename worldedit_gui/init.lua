@@ -221,12 +221,8 @@ elseif rawget(_G, "sfinv") then --sfinv installed (part of minetest_game since 0
 		end
 	end
 else
-	error(
-		"worldedit_gui requires a supported \"gui management\" mod to be installed\n"..
-		"To use the GUI you need to either\n"..
-		"* Use minetest_game (at least 0.4.15) or a subgame with compatible sfinv\n"..
-		"* Install Unified Inventory or Inventory++\n"..
-		"If you do not want to use worldedit_gui, disable it by editing world.mt or from the Main Menu"
+	return minetest.log("error",
+		"worldedit_gui requires a gui management mod sfinv, Unified Inventory, Inventory++ or Smart Inventory. Not loaded."
 	)
 end
 
